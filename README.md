@@ -12,14 +12,13 @@
    প্রয়োজনীয় লাইব্রেরি ইনস্টল করার কমান্ড
 ```
    pip install pyfiglet user_agent
-```
 
+```
 🚀 টুলটি রান করার কমান্ড (কপি করে পেস্ট করো)
 ```
-git clone https://github.com/nafiz1000x/1UP_DDOS.git
-cd 1UP_DDOS
-python 1UP_DDOS.py
+   git clone https://github.com/nafiz1000x/1UP_DDOS.git
+   cd 1UP_DDOS
+   python 1UP_DDOS.py
 ```
-
 
 👤 ক্রেডিট : Nafiz Sheikh
